@@ -1,0 +1,20 @@
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Strapi
+.cache
+.build
+public/uploads
+
+# Env
+.env
+.env.*
+
+# Docker
+docker-data
+
+# OS
+.DS_Store
+
